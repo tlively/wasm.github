@@ -1,0 +1,3 @@
+[submodule "meetings"]
+	path = meetings
+	url = https://github.com/WebAssembly/meetings.git
